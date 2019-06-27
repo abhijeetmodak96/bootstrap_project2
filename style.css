@@ -1,0 +1,58 @@
+body{
+  font-family: 'Playfair Display', serif;
+}
+
+.ima{
+  height: 100vh;
+
+}
+.im{
+  height: 220px;
+  width: 240px;
+}
+.con{
+  height:100vh;
+}
+.jumbotron{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.aa{
+  background-color: white;
+  width: 740px;
+  color: black;
+}
+
+#border{
+  border:1px grey solid;
+}
+.a{
+  color: black;
+    height: 50px;
+    padding:10px 15px;
+
+}
+.ab{
+  background-color: black;
+  width: 740px;
+  color: black;
+  padding:30px 1px;
+
+}
+.cat{
+  padding:300px 1px;
+}
+.dog{
+  padding:100px 1px;
+}
+.d{
+  padding:10px 1px;
+}
+.footer{
+
+background: grey;
+padding:10px 1px;
+  margin: 2px 2px;
+
+}
